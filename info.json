@@ -1,0 +1,9 @@
+{
+  "fname": "first", 
+  "lname": "last",
+  "address": "33 Somewher Rd.", 
+  "zipcode": "55555", 
+  "state": "NY", 
+  "creditNum": "1111222233334444",
+  "creditPin": "555"
+}
